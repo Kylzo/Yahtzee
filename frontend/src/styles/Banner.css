@@ -1,0 +1,57 @@
+.yahtzee-banner {	
+	color: black;
+	text-align: right;
+	border-bottom: solid 3px black;
+	display: flex;
+	justify-content: left;
+	flex-direction: row;
+	align-items: center;
+	position: relative;
+}
+
+.yahtzee-title {
+	padding-left: 150px;
+	font-size: medium;
+	padding-top: 35px;
+	position: absolute;
+}
+
+.yahtzee-logo {
+	height: 200px;
+	width: 200px;
+}
+
+.yahtzee-navbar {
+	position: absolute;
+	right: 25px;
+	top: 160px;
+}
+
+.yahtzee-navbarSign {
+	color: black;
+	text-decoration: none;
+}
+
+.yahtzee-navbarSign:hover {
+	color: black;
+}
+
+.yahtzee-navbarLog {
+	color: black;
+	text-decoration: none;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.yahtzee-navbarLog:hover {
+	color: black;
+}
+
+.yahtzee-navbarHome {
+	color: black;
+	text-decoration: none;
+}
+
+.yahtzee-navbarHome:hover {
+	color: black;
+}
